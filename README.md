@@ -16,5 +16,5 @@
 ## Project status
 Project is not complete, I'm still working on it.
 
-##Contact
+## Contact
 You can reach me here: <a href="mailto:sebastianlech@poczta.fm">sebastianlech@poczta.fm</a>
